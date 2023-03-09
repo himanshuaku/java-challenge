@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: himanshubhadri
+Build-Jdk: 17.0.6
+Implementation-Title: api-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: jp.co.axa
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/api-demo
+Created-By: Maven Integration for Eclipse
+
